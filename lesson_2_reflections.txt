@@ -32,3 +32,6 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+	Pros: it is very intelligent and suppose two persons are working on some independent
+	things, it will work correctly saving us the time.
+	Cons: need not be always correct(eg when code is crirical)
