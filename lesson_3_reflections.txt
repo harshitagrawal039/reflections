@@ -27,7 +27,9 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    We can work offline and later by command git fetch, we can have both remote and our local
+    work separately in our local machine. Later we can merge and push the changes. While doing
+    git pull, we have to first resolve conflicts always.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
