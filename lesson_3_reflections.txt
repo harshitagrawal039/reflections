@@ -43,4 +43,13 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    1- When there are many people working on the project so that I can create pull requests rather
+    than directly updating master branch as it would be easy then to get feedback.
+    2- When working on a different feature or say experimenting with the code.
+    Benefits- Usually we would like master to have all the commits that are logical enough and not 
+    the ones which have faults. So, first we can work in different branch and only when everything 
+    is correct, we push to the master.
+
+    Benefits of directly merging into the master- When there is only a single person, directly updating
+    master is a good choice.
+    
